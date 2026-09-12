@@ -1,14 +1,14 @@
-div {
+/* div {
     display: flex;
     justify-content: space-between;
     width: 100%;
-}
+} */
 
-ul {
+/* ul {
     display: flex;
     justify-content: space-between;
     margin: 20px;
-}
+} */
 
 ul li {
     margin: 20px;
